@@ -122,7 +122,7 @@ $ expo start
 
 Feito com ♥ by Carneats :wave:
 Projeto realizado por:
-José Motta
-Lucas Pereira
-Miguel Soares
+José Motta,
+Lucas Pereira,
+Miguel Soares e
 Nicolas Gomes
